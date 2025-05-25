@@ -1,0 +1,34 @@
+{
+  "name": "hazard-qna",
+  "version": "1.2.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hazard-qna": "index.js"
+  },
+  "keywords": [],
+  "author": "Meeraj",
+  "license": "MIT",
+  "description": "Question-Answer based CLI game for JavaScript",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "chalk-animation": "^2.0.3",
+    "console-clear": "^1.1.1",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.6.1",
+    "nanospinner": "^1.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meeraj-Kumar-Sarkar/hazard-qna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Meeraj-Kumar-Sarkar/hazard-qna/issues"
+  },
+  "homepage": "https://github.com/Meeraj-Kumar-Sarkar/hazard-qna#readme"
+}
