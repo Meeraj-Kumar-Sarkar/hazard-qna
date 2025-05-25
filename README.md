@@ -152,7 +152,7 @@ We welcome all contributions!
 
 ## 👨‍🎨 Credits
 
-Crafted by **4lex.Riley.90s**  
+Crafted by **simon_riley.sas141**  
 Inspired by the passion for coding and interactive CLI experiences.
 
 ---
